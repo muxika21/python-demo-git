@@ -1,4 +1,4 @@
-def main():
+def mai():
     # Prompt the user to enter their name
     name = input"Enter your name: ")
 
@@ -6,4 +6,4 @@ def main():
     print("Hello, " + name + "! Welcome to Python.")
 
 if __name__ == "__main__":
-    main(
+    main(}
