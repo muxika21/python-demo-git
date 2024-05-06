@@ -10,7 +10,7 @@ def main():
     name = sys.argv[1]
 
     # Greet the user
-    print"Hello, " + name + "! Welcome to Python.")
+    print("Hello, " + name + "! Welcome to Python.")
 
 if __name__ == "__main__":
     main()
